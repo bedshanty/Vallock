@@ -1,0 +1,2 @@
+# Vallock
+Safe variables.
